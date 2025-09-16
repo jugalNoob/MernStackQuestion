@@ -210,6 +210,18 @@ now that ES2023 added toSpliced.
 let arr = [1, 2, 3, 4];
 arr.splice(1, 2, 99);                  // [1, 99, 4]
 
+🔹 Step-by-step explanation
+
+Original array: [0, 0, 3, 4, 5]
+
+toSpliced(0, 2, 1, 2)
+
+0 → starting index.
+
+2 → delete 2 elements starting from index 0 ([0, 0] will be removed).
+
+1, 2 → elements to insert at index 0.
+
 // ==========================
 // Section 12: Find Last
 // ==========================
