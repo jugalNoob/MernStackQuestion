@@ -1,0 +1,49 @@
+Mouse Events:
+
+click: When the user clicks an element.
+
+dblclick: When the user double-clicks an element.
+
+mouseover: When the mouse pointer is moved over an element.
+
+mouseout: When the mouse pointer leaves an element.
+
+mousedown: When the mouse button is pressed down on an element.
+
+mouseup: When the mouse button is released over an element.
+
+Keyboard Events:
+
+keydown: When a key is pressed down.
+
+keyup: When a key is released.
+
+keypress: When a key is pressed (deprecated in modern browsers).
+
+Form Events:
+
+submit: When a form is submitted.
+
+change: When the value of an input, select, or textarea element changes.
+
+input: When the value of an input or textarea element is changed.
+
+focus: When an element gains focus.
+
+blur: When an element loses focus.
+
+Window Events:
+
+load: When the page or an element has finished loading.
+
+resize: When the browser window is resized.
+
+scroll: When the user scrolls the page.
+
+Touch Events (for mobile devices):
+
+touchstart: When a user touches the screen.
+
+touchend: When a user stops touching the screen.
+
+touchmove: When a user moves their finger on the screen.
