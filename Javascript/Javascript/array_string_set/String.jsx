@@ -1,4 +1,8 @@
+👉 A string is a sequence of characters used to represent text in JavaScript. Strings are 
+ written inside quotes (single, double, or backticks) and are immutable, meaning they 
+  cannot be changed once created.
 
+Example:
 
 18::String |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||<><><><><><><
 String length
