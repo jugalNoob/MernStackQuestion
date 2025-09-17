@@ -1,3 +1,16 @@
+3. How it works
+
+Browser sends request from client domain to server domain.
+
+Server responds with CORS headers, e.g.:
+
+Access-Control-Allow-Origin: http://localhost:3000 → Only allows this domain.
+
+Access-Control-Allow-Methods: GET, POST → Allowed HTTP methods.
+
+Browser checks headers and either allows or blocks the response.
+
+
 Almost correct! Let me clarify and polish your sentence for interview or notes purposes:
 
 Correct explanation:
